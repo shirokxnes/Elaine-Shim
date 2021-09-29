@@ -1,8 +1,3 @@
-```css
-<style>
-  p {color: #3d7a51}
-</style>
-```
 # It's A Me!
 Hello. I'm Elaine.
 
