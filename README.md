@@ -18,6 +18,5 @@ Hello. I'm Elaine.
 ##### Need anything?
 Contact me at:
 
-<elainshim@gmail.com>
-
-[instagram](instagram.com/idiotelaine)
+- <elainshim@gmail.com>
+- [instagram](instagram.com/idiotelaine)
