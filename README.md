@@ -3,7 +3,7 @@ Hello. I'm Elaine.
 
 ### Currently...
 
-<p> A _sophomore_ at Whitney High School. </p>
+<p> A *sophomore* at Whitney High School. </p>
 
 ~~... Yes. It's my 4th year here.~~
 
@@ -18,3 +18,6 @@ Hello. I'm Elaine.
 ##### Need anything?
 Contact me at:
 
+<elainshim@gmail.com>
+
+[instagram](instagram.com/idiotelaine)
