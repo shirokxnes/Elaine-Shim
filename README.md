@@ -1,11 +1,5 @@
 # It's A Me!
-Hello. I'm Elaine. My pronouns are they/them.
-
-### Currently...
-
-<p> A *sophomore* at Whitney High School. </p>
-
-~~It's my 4th year here.~~
+Hello. My name is Elaine. I'm currently a *sophomore* at Whitney High School.
 
 #### More things to know!
 1. I like math!
@@ -25,15 +19,5 @@ Contact me at:
 - <elainshim@gmail.com>
 - [instagram](instagram.com/idiotelaine)
 
-#### AP Classes?
-A good list for people to see (Don't overdue the classes.):
-
-**9th**: AP Calculus AB
-
-**10th**: AP Computer Science Principles, AP Statistics, AP Calculus BC
-
-**11th**: PROJECTED: AP English Language, AP US History, AP Psychology.
-
-**12th**: TBA I'm not that advanced. :(
 
 The next image, for points:
