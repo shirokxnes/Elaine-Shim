@@ -1,7 +1,7 @@
 # It's A Me!
 Hello. My name is Elaine. I'm currently a *sophomore* at Whitney High School.
 
-#### More things to know!
+#### A few hobbies..
 1. I like math!
 
 2. I like bingus. The hairless cat.
