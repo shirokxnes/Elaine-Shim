@@ -11,7 +11,7 @@ Hello. I'm Elaine. My pronouns are they/them.
 1. I like math!
 
 2. I like bingus. The hairless cat.
-![bingus](https://static.wikia.nocookie.net/dogelore/images/b/b0/Bingus.jpg/revision/latest/scale-to-width-down/851?cb=20201002125604)
+![bingus](src Bingus.jpg)
 
 3. I enjoy editing videos. Not anything professional, just fun little edits on the side.
 
