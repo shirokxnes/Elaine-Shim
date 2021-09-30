@@ -1,7 +1,7 @@
 # It's A Me!
-Hello. My name is Elaine, a normal nonbinary teenager. I'm currently a sophomore at Whitney High School.
+Hello. My name is Elaine, an as-normal-as-you-can-get nonbinary teenager.(they/them) I'm currently a sophomore at Whitney High School.
 
-#### A few hobbies..
+#### A Few Hobbies..
 1. I like math!
 2. I enjoy editing videos. Not anything professional, just fun little edits on the side.
 3. I enjoy playing games too, mainly rhythm games.
@@ -12,7 +12,7 @@ Hello. My name is Elaine, a normal nonbinary teenager. I'm currently a sophomore
 
 - I also know a bit of: Javascript and Python (not my specialty. haha)
 
-#### Need anything?
+#### Need Anything?
 Contact me at:
 
 - <elainshim@gmail.com>
