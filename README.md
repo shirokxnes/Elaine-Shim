@@ -3,11 +3,10 @@ Hello. My name is Elaine. I'm currently a *sophomore* at Whitney High School.
 
 #### A few hobbies..
 1. I like math!
-
 2. I like bingus. The hairless cat.
 ![bingus](Bingus.jpg)
-
 3. I enjoy editing videos. Not anything professional, just fun little edits on the side.
+4. I enjoy playing games too, mainly rhythm games.
 
 #### Stuff I Know
 After Effects, Photoshop (a bit), AutoCAD, Solidworks (a bit)
