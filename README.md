@@ -21,4 +21,5 @@ Contact me at:
 
 
 The next image, for points:
+
 ![minori](stamp0433.png)
