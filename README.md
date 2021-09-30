@@ -8,11 +8,11 @@ Hello. I'm Elaine.
 ~~... Yes. It's my 4th year here.~~
 
 #### More things to know!
- 1. I like math
+1. I like math!
 
-2. Math is blue
+2. I really.. really like bingus. The hairless cat.
 
-3. Chemistry sucks
+3. I enjoy lots of things, mainly related to computers. That's why I love AP CSP.
 
 
 ##### Need anything?
