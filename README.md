@@ -17,7 +17,7 @@ I also know a bit of: Javascript and Python (not very good haha)
 Contact me at:
 
 - <elainshim@gmail.com>
-- [instagram](instagram.com/idiotelaine)
+- [instagram](https://instagram.com/idiotelaine)
 
 
 The next image, for points:
