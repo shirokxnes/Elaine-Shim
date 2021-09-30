@@ -3,13 +3,13 @@ Hello. My name is Elaine, a normal nonbinary teenager. I'm currently a sophomore
 
 #### A few hobbies..
 1. I like math!
-![hatsune miku](comic_0024.png)
 2. I enjoy editing videos. Not anything professional, just fun little edits on the side.
 3. I enjoy playing games too, mainly rhythm games.
-
+![hatsune miku](comic_0024.png)
 #### Stuff I Know
-Mainly After Effects, basic knowledge of Photoshop, AutoCAD, and Solidworks
-I also know a bit of: Javascript and Python (not very good haha)
+After Effects, (some) Photoshop, and basic knowledge of AutoCAD and Solidworks
+
+I also know a bit of: Javascript and Python (not my specialty. haha)
 
 #### Need anything?
 Contact me at:
