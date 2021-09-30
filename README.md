@@ -7,9 +7,9 @@ Hello. My name is Elaine, a normal nonbinary teenager. I'm currently a sophomore
 3. I enjoy playing games too, mainly rhythm games.
 ![hatsune miku](comic_0024.png)
 #### Stuff I Know
-After Effects, (some) Photoshop, and basic knowledge of AutoCAD and Solidworks
+- After Effects, (some) Photoshop, and basic knowledge of AutoCAD and Solidworks
 
-I also know a bit of: Javascript and Python (not my specialty. haha)
+- I also know a bit of: Javascript and Python (not my specialty. haha)
 
 #### Need anything?
 Contact me at:
