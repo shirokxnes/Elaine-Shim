@@ -15,7 +15,7 @@ Hello. I'm Elaine. My pronouns are they/them.
 
 3. I enjoy editing videos. Not anything professional, just fun little edits on the side.
 
-##### Stuff I Know
+#### Stuff I Know
 After Effects, Photoshop (a bit), AutoCAD, Solidworks (a bit)
 I also know a bit of: Javascript and Python (not very good haha)
 
