@@ -17,7 +17,10 @@ Contact me at:
 - <elainshim@gmail.com>
 - [instagram](https://instagram.com/idiotelaine)
 
-
-The next image, for points:
+<video>
+<video width="320" height="240" controls>
+  <source src="video0.mp4" type="video/mp4">
+</video>
 
 ![minori](stamp0433.png)
+completely unsuspicious link.
