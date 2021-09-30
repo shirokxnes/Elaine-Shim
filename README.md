@@ -6,6 +6,7 @@ Hello. My name is Elaine, a normal nonbinary teenager. I'm currently a sophomore
 2. I enjoy editing videos. Not anything professional, just fun little edits on the side.
 3. I enjoy playing games too, mainly rhythm games.
 ![hatsune miku](comic_0024.png)
+
 #### Stuff I Know
 - After Effects, (some) Photoshop, and basic knowledge of AutoCAD and Solidworks
 
