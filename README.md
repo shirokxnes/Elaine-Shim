@@ -1,5 +1,5 @@
 # It's A Me!
-Hello. My name is Elaine. I'm currently a sophomore at Whitney High School.
+Hello. My name is Elaine, a normal nonbinary teenager. I'm currently a sophomore at Whitney High School.
 
 #### A few hobbies..
 1. I like math!
@@ -18,4 +18,3 @@ Contact me at:
 - [instagram](https://instagram.com/idiotelaine)
 
 ![minori](stamp0433.png)
-completely unsuspicious link.
