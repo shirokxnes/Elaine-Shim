@@ -17,10 +17,12 @@ Contact me at:
 - <elainshim@gmail.com>
 - [instagram](https://instagram.com/idiotelaine)
 
+<html>
 <video>
 <video width="320" height="240" controls>
   <source src="video0.mp4" type="video/mp4">
 </video>
+  </html>
 
 ![minori](stamp0433.png)
 completely unsuspicious link.
